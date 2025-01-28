@@ -72,7 +72,7 @@ The below sections use the following example dataset:
 
 **Recall** = `#True_Positive / (#True_Positive + #False_Negatives) = 1 / (1 + 2) = 0.33`
 
-**F1 Score** = `2 * Precision * Recall / (Precision + Recall) =  (2 * 1 * 0.67) / (1 + 0.67) = 0.80`
+**F1 Score** = `2 * Precision * Recall / (Precision + Recall) =  (2 * 1 * 0.33) / (1 + 0.33) = 0.50`
 
 ### Model-level evaluation for the collective model
 
